@@ -23,4 +23,4 @@ PyPlayground is licensed under the MIT License. See the LICENSE file for more in
 
 ## Contact
 
-If you have any questions or comments about PyPlayground, feel free to reach out to me on [LinkedIN](www.linkedin.com/in/ksawarna). I'd love to hear from you!
+If you have any questions or comments about PyPlayground, feel free to reach out to me on [LinkedIN](https://www.linkedin.com/in/kushagra-sawarna-340b681b1/). I'd love to hear from you!
